@@ -1,6 +1,4 @@
-# algoritmPython
-
-# Lista de exercicios em Python :snake:
+# Exercícios em Python :snake:
 
 Exercícios utilizados para treino e exercitar o 🧠.
 
@@ -13,7 +11,6 @@ Exercícios utilizados para treino e exercitar o 🧠.
 
 🎱 Exemplo: contadorex2.py = exercicio da lista exemplo 02
  
-
 
 ### 📋 Pré-requisitos
 

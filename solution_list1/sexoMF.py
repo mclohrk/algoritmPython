@@ -1,7 +1,14 @@
-#
-#
-#
-# Programa Escrever um algoritmo que leia o nome e o sexo de 56 pessoas e aofinal 
+######################
+# created by McloHrk #
+# github.com/mclohrk #
+# mclohrk.github.io  #
+######################
+
+# Code: 
+# Name: sexoMF
+# Version:v1
+# Description:
+# Programa:  Escrever um algoritmo que leia o nome e o sexo de 56 pessoas e aofinal 
 # informe total de homens e de mulheres
 
 
@@ -27,11 +34,17 @@ def addSexOfPeople(x,vetorSexo):
 def printMessage(obj):
 	print(obj)			
 
+
 def main():
 	
 	vetorSexo = []	
 	numRepeat = repeatNumber()
 	addSexOfPeople(numRepeat,vetorSexo)
-	print(vetorSexo)	
+	
+	qtdM = vetorSexo.count("M")
+	qtdF = vetorSexo.count("F")
+
+	print("Quantidade Homens: ",qtdM)
+	print("Quantidade Mulheres: ",qtdF)	
 
 main()

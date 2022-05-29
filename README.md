@@ -1,6 +1,6 @@
 # Exercícios em Python :snake:
-
-Exercícios utilizados para treino e exercitar o 🧠.
+ 
+🪖 Exercícios utilizados para treino e exercitar o 🧠.
 
 ## 🚀 Organização do repositório
 📂 Na pasta contém as soluções dos exercícios respectivos a cada lista de exercícios
@@ -12,10 +12,10 @@ Exercícios utilizados para treino e exercitar o 🧠.
 🎱 Exemplo: contadorex2.py = exercicio da lista exemplo 02
  
 
-### 📋 Pré-requisitos
+### 🎒 Pré-requisitos
 
 Python 3 
 
 📨 marcelo.henrik@gmail.com
 
-💻 com ❤️ por [Marcelo Henrique](https://mclohrk.github.io/) 🏴‍☠️ 
+ ✍ com ❤️ por [Marcelo Henrique](https://mclohrk.github.io/) 🏴‍☠️ 

@@ -23,7 +23,7 @@ def addSexOfPeople(x,vetorSexo):
 	
 	for n in range(x):
 		try:
-			char_ = str(input("Infome o sexo da pessoa [M/F]"))
+			char_ = str(input("Infome o sexo da pessoa [M/F]: "))
 			assert char_ in ('M', 'F')
 			vetorSexo.append(char_)  
 		except ValueError:
